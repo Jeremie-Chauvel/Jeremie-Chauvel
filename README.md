@@ -1,16 +1,32 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**Jeremie-Chauvel/Jeremie-Chauvel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Jeremie, a Full-Stack Developer focused on solving business problems with extraordinary technical solutions 🎉
 
-Here are some ideas to get you started:
+I love:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- agility 🤸
+- exquisite user experience 🤩
+- learning 🎓 & teaching 🚸
+- extraordinary developer experience 😎
+- open source 🔮
+- sport 🏃
+
+I love working with:
+
+- Vue.js 🚀
+- Python 🐍
+- React.js ✨
+- Node.js 🔭
+
+At the moment, I'm interested in:
+
+- the JAMSTACK ⚡
+- Serverless 🛸
+- FastAPI 🌠
+
+<br>
+
+📫 How to reach me:
+
+- Ping me on github @Jeremie-Chauvel.
+- For work: [LinkedIn](https://www.linkedin.com/in/jeremie-chauvel).
